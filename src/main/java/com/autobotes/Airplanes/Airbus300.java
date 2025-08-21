@@ -1,4 +1,4 @@
 package com.autobotes.Airplanes;
 
-public class boeing747 {
+public class Airbus300 {
 }
